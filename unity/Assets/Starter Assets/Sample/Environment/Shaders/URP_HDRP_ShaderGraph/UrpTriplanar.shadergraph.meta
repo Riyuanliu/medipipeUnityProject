@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: b8d7679189d4a5940af46004f3870920
+AssetOrigin:
+  serializedVersion: 1
+  productId: 267961
+  packageName: 'Starter Assets: Character Controllers | URP'
+  packageVersion: 1.1.0
+  assetPath: Assets/Starter Assets/Sample/Environment/Shaders/URP_HDRP_ShaderGraph/UrpTriplanar.shadergraph
+  uploadId: 697096
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {instanceID: 0}
