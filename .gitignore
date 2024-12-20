@@ -1,0 +1,13 @@
+# Unity generated folders
+[Bb]uild/
+[Bb]uilds/
+[Ll]ibrary/
+[Ll]ogs/
+[Tt]emp/
+[Uu]serSettings/
+
+# User-specific files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
